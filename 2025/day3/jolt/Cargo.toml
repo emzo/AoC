@@ -1,0 +1,9 @@
+[package]
+name = "jolt"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+[profile.release]
+strip = true  # Remove debug symbols to reduce file size
