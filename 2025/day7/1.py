@@ -1,6 +1,3 @@
-
-
-
 def process_line(line, previous):
     count = []
     new = []
